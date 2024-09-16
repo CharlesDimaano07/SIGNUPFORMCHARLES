@@ -1,0 +1,93 @@
+body { 
+    background-image:url(http://wallpaperheart.com/wp-content/uploads/2018/04/natural-background-hd-beautiful-nature-backgrounds-hd.jpg); 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: auto; 
+    width: auto;
+
+    
+} 
+ 
+.container { 
+    position: absolute;
+    background: #d02d2d00; 
+    padding: 10px; 
+    max-width: 400px; 
+    width: 100%; 
+    top: 0px;
+} 
+ 
+.signup-form { 
+    display: flex; 
+    flex-direction: column; 
+    
+} 
+ 
+.signup-form h1 { 
+    color: aliceblue;
+    margin-bottom: 20px; 
+    font-size: 40px; 
+    text-align: center; 
+} 
+ 
+.form-group { 
+
+    margin-bottom: 15px; 
+} 
+ 
+.form-group label { 
+    display: block; 
+    margin-bottom: 5px; 
+    font-weight: bold; 
+} 
+ 
+.form-group input { 
+    width: 100%; 
+    padding: 10px; 
+    border: 1px solid #ddd; 
+    border-radius: 4px; 
+} 
+ 
+.submit-button { 
+    background-color: #52472a; 
+    width: 425px;
+    color: white; 
+    border: none; 
+    padding: 15px; 
+    border-radius: 30px; 
+    cursor: pointer; 
+    font-size: 16px; 
+    text-align: center;
+} 
+ 
+.submit-btn:hover { 
+    background-color: #390101; 
+}
+
+
+.social-media { 
+   
+    position: absolute;
+    top: 500px;
+    left: 600px;
+    padding: auto;
+
+}
+
+.social-media2{
+    position: absolute;
+    top:500px;
+
+
+}
+
+
+.social-media3{
+
+position: absolute;
+top: 500px;
+right: 600px;
+
+
+}
